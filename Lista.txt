@@ -1,110 +1,71 @@
-0.0.0.0 acchiappanotizie.it
-0.0.0.0 autismoevaccini.org
-0.0.0.0 byoblu.com
-0.0.0.0 corrierequotidiano.it
-0.0.0.0 databaseitalia.it
-0.0.0.0 dionidream.com
-0.0.0.0 direttanews.com
-0.0.0.0 eventiavversinews.it
-0.0.0.0 fascinazione.info
-0.0.0.0 gloria.tv
-0.0.0.0 ilfarosulmondo.it
-0.0.0.0 ilnord.it
-0.0.0.0 imolaoggi.it
-0.0.0.0 informaresenzacensure.it
-0.0.0.0 jeda.news
-0.0.0.0 lantidiplomatico.it
-0.0.0.0 losbufalos.com
-0.0.0.0 luogocomune.net
-0.0.0.0 mag24.es
-0.0.0.0 mediterranews.it
-0.0.0.0 misteri.biz
-0.0.0.0 nocensura.com
-0.0.0.0 notiziesulweb.com
-0.0.0.0 notizieaudaci.it
-0.0.0.0 openyoureyes.it
-0.0.0.0 primatonazionale.it
-0.0.0.0 renovatio21.com
-0.0.0.0 sa-defenza.com
-0.0.0.0 saltoquantico.org
-0.0.0.0 salutebenessere24.it
-0.0.0.0 scenarieconomici.it
-0.0.0.0 signoraggio.it
-0.0.0.0 silenziiefalsita.it
-0.0.0.0 tanker-enemy.com
-0.0.0.0 tg5stelle.it
-0.0.0.0 tuttiicriminidegliimmigrati.com
-0.0.0.0 voxnews.info
-0.0.0.0 worldnotix.net
-0.0.0.0 you-ng.it
-0.0.0.0 dangerousnews.com
-0.0.0.0 ilmattoquotidiano.com
-0.0.0.0 ilmessaggio.it
-0.0.0.0 ilfattoquotidaino.com
-0.0.0.0 ilquotidaino.com
-0.0.0.0 liberogiornale.com
-0.0.0.0 notiziariosegreto.com
-0.0.0.0 secretnews.it
-0.0.0.0 superbamente.com
-0.0.0.0 worldnewsdailyreport.com
-0.0.0.0 fonteverificata.it
-0.0.0.0 dionidream.com
-0.0.0.0 lastella.info
-0.0.0.0 segnidalcielo.it
-0.0.0.0 pianetablunews.it
-0.0.0.0 saltoquantico.org
-0.0.0.0 autismoevaccini.com
-0.0.0.0 jedanews.com
-0.0.0.0 naturalnews.com
-0.0.0.0 notiziespericolate.it
-0.0.0.0 viaggialowcost.it
-0.0.0.0 sadefenza.com
-0.0.0.0 renovatio21.com
-0.0.0.0 devinformarti.altervista.org
-0.0.0.0 imolaoggi.it
-0.0.0.0 scenarieconomici.it
-0.0.0.0 voxnews.info
-0.0.0.0 informarexresistere.fr
-0.0.0.0 breaknotizie.com
-0.0.0.0 direttanews24.com
-0.0.0.0 fascinazione.info
-0.0.0.0 tg5stelle.it
-0.0.0.0 openyoureyes.info
-0.0.0.0 ilbazarinformazione.com
-0.0.0.0 informareonline.com
-0.0.0.0 notizieinmovimento.com
-0.0.0.0 notizie24ore.com
-0.0.0.0 informaresenzacensure.it
-0.0.0.0 byoblu.com
-0.0.0.0 mag24.es
-0.0.0.0 iocritico.it
-0.0.0.0 sostenitoridelleforzedellordine.it
-0.0.0.0 l’irresponsabile.it
-0.0.0.0 animaliambiente.it
-0.0.0.0 thuglifevideos.com
-0.0.0.0 yournewswire.com
-0.0.0.0 maurizioblondet.it
-0.0.0.0 aggregatoreclickbait.it
-0.0.0.0 essereinformati.it
-0.0.0.0 tgnewsitalia.it
-0.0.0.0 nocensura.com
-0.0.0.0 tuttiicriminidegliimmigrati.com
-0.0.0.0 vnews24.it
-0.0.0.0 direttanfo.it
-0.0.0.0 tg24-ore.com
-0.0.0.0 worldnotix.net
-0.0.0.0 litaliaagliitaliani.it
-0.0.0.0 mimanchi.it
-0.0.0.0 sulatestagiannilannes.blogspot.com
-0.0.0.0 tacticalmediacrew.com
-0.0.0.0 tanker-enemy.com
-0.0.0.0 sapereèundovere.it
-0.0.0.0 luogocomune.net
-0.0.0.0 disinformazione.it
-0.0.0.0 centrometeoitaliano.it
-0.0.0.0 signoraggio.it
-0.0.0.0 vincenzoferraroblog.it
-0.0.0.0 oggi24ore.com
-0.0.0.0 radiosavana.it
-0.0.0.0 quellochenoncidicono.it
-0.0.0.0 socialtvnetwork.com
+||dangerousnews.com^
+||ilmattoquotidiano.com^
+||ilmessaggio.it^
+||ilfattoquotidaino.com^
+||ilquotidaino.com^
+||liberogiornale.com^
+||notiziariosegreto.com^
+||secretnews.it^
+||superbamente.com^
+||worldnewsdailyreport.com^
+||fonteverificata.it^
+||dionidream.com^
+||lastella.info^
+||segnidalcielo.it^
+||pianetablunews.it^
+||saltoquantico.org^
+||autismoevaccini.com^
+||jedanews.com^
+||naturalnews.com^
+||notiziespericolate.it^
+||viaggialowcost.it^
+||sadefenza.com^
+||renovatio21.com^
+||devinformarti.altervista.org^
+||imolaoggi.it^
+||scenarieconomici.it^
+||voxnews.info^
+||informarexresistere.fr^
+||breaknotizie.com^
+||direttanews24.com^
+||fascinazione.info^
+||tg5stelle.it^
+||openyoureyes.info^
+||ilbazarinformazione.com^
+||informareonline.com^
+||notizieinmovimento.com^
+||notizie24ore.com^
+||informaresenzacensure.it^
+||byoblu.com^
+||mag24.es^
+||iocritico.it^
+||sostenitoridelleforzedellordine.it^
+||l’irresponsabile.it^
+||animaliambiente.it^
+||thuglifevideos.com^
+||yournewswire.com^
+||maurizioblondet.it^
+||aggregatoreclickbait.it^
+||essereinformati.it^
+||tgnewsitalia.it^
+||nocensura.com^
+||tuttiicriminidegliimmigrati.com^
+||vnews24.it^
+||direttanfo.it^
+||tg24-ore.com^
+||worldnotix.net^
+||litaliaagliitaliani.it^
+||mimanchi.it^
+||sulatestagiannilannes.blogspot.com^
+||tacticalmediacrew.com^
+||tanker-enemy.com^
+||sapereèundovere.it^
+||luogocomune.net^
+||disinformazione.it^
+||centrometeoitaliano.it^
+||signoraggio.it^
+||vincenzoferraroblog.it^
+||oggi24ore.com^
+||radiosavana.it^
+||quellochenoncidicono.it^
+||socialtvnetwork.com^
