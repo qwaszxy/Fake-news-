@@ -1,39 +1,39 @@
-acchiappanotizie.it
-autismoevaccini.org
-byoblu.com
-corrierequotidiano.it
-databaseitalia.it
-dionidream.com
-direttanews.com
-eventiavversinews.it
-fascinazione.info
-gloria.tv
-ilfarosulmondo.it
-ilnord.it
-imolaoggi.it
-informaresenzacensure.it
-jeda.news
-lantidiplomatico.it
-losbufalos.com
-luogocomune.net
-mag24.es
-mediterranews.it
-misteri.biz
-nocensura.com
-notiziesulweb.com
-notizieaudaci.it
-openyoureyes.it
-primatonazionale.it
-renovatio21.com
-sa-defenza.com
-saltoquantico.org
-salutebenessere24.it
-scenarieconomici.it
-signoraggio.it
-silenziiefalsita.it
-tanker-enemy.com
-tg5stelle.it
-tuttiicriminidegliimmigrati.com
-voxnews.info
-worldnotix.net
-you-ng.it
+0.0.0.0 acchiappanotizie.it
+0.0.0.0 autismoevaccini.org
+0.0.0.0 byoblu.com
+0.0.0.0 corrierequotidiano.it
+0.0.0.0 databaseitalia.it
+0.0.0.0 dionidream.com
+0.0.0.0 direttanews.com
+0.0.0.0 eventiavversinews.it
+0.0.0.0 fascinazione.info
+0.0.0.0 gloria.tv
+0.0.0.0 ilfarosulmondo.it
+0.0.0.0 ilnord.it
+0.0.0.0 imolaoggi.it
+0.0.0.0 informaresenzacensure.it
+0.0.0.0 jeda.news
+0.0.0.0 lantidiplomatico.it
+0.0.0.0 losbufalos.com
+0.0.0.0 luogocomune.net
+0.0.0.0 mag24.es
+0.0.0.0 mediterranews.it
+0.0.0.0 misteri.biz
+0.0.0.0 nocensura.com
+0.0.0.0 notiziesulweb.com
+0.0.0.0 notizieaudaci.it
+0.0.0.0 openyoureyes.it
+0.0.0.0 primatonazionale.it
+0.0.0.0 renovatio21.com
+0.0.0.0 sa-defenza.com
+0.0.0.0 saltoquantico.org
+0.0.0.0 salutebenessere24.it
+0.0.0.0 scenarieconomici.it
+0.0.0.0 signoraggio.it
+0.0.0.0 silenziiefalsita.it
+0.0.0.0 tanker-enemy.com
+0.0.0.0 tg5stelle.it
+0.0.0.0 tuttiicriminidegliimmigrati.com
+0.0.0.0 voxnews.info
+0.0.0.0 worldnotix.net
+0.0.0.0 you-ng.it
