@@ -1,1 +1,1 @@
-# Fake-news-
+# Custom Adguard lists
