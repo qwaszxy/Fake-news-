@@ -1,0 +1,8 @@
+||adclick.g.doublecklick.net^
+||googleads.g.doubleclick.net^
+||http://www.googleadservices.com^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||spclient.wg.spotify.com^
+||audio2.spotify.com^
